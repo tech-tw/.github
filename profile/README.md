@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://cdn.discordapp.com/attachments/1058257662556508170/1058257815791210506/icon-clear-background.png" style=" width:100px ; height:100px "  >
+  <img src="https://media.discordapp.net/attachments/1058257662556508170/1078703399551373452/lac-tech-all.png?width=1440&height=608&height=608" style=" width:256px ; height:108px "  >
 </p> 
   <h1 align="center">光雲科技 LAC Technology
 </h1>
